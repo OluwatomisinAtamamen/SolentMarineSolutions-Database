@@ -1,7 +1,7 @@
 
 # SMS Database Project
 
-This repository contains the database design, implementation, and associated documentation for the Solent Marine Solutions (SMS) database system. The SMS database is designed to support the operations of a multinational marine corporation, handling various aspects such as staff management, customer information, boat details, service records, and facility management across multiple boatyards.
+This repository contains the database design, implementation, and associated documentation for Solent Marine Solutions (SMS) database system; a Database Coursework while studying Software Engineering. The SMS database is designed to support the operations of a fictional multinational marine corporation, handling various aspects such as staff management, customer information, boat details, service records, and facility management across multiple boatyards.
 
 ## Table of Contents
 
