@@ -104,7 +104,3 @@ To interact with the SMS Database, you can use the PostgreSQL command line inter
 Remember to replace `/path/to/file.sql` with the actual file paths on your system.
 
 Alternatively, you can use a graphical SQL client like pgAdmin, DBeaver, or any other preferred tool to connect to the PostgreSQL server and interact with the SMS Database.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
